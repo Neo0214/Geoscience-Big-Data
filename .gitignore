@@ -1,3 +1,7 @@
 data.txt
+filter-data.txt
 .idea/
 .venv/
+*.pyc
+*.docx
+*.xlsx
